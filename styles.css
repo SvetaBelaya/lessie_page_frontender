@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(228, 178, 242);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 500px;
+    height: 333.39px;
+}
+
+.header_title {
+    font-size: 28px;
+}
+
+.header_subtitle {
+    color: blueviolet;
+}
+
+main {
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.img {
+    width: 374.93px;
+    height: 250px;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    border-color: blue;
+}
+
+.video {
+    width: 500px;
+    height: 350px;
+    border: none;
+}
+
+.hobbies ol {
+    list-style: none;
+}
+
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed_table th,
+.ed_table td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form input {
+    width: 100%;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: blueviolet;
+}
